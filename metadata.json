@@ -1,0 +1,5 @@
+{
+  "name": "Gmail to Telegram Sync",
+  "description": "Automatically forward new Gmail messages to a Telegram bot in real-time.",
+  "requestFramePermissions": []
+}
